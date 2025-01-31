@@ -1,2 +1,0 @@
-# Rankineee
-cc101projectko
